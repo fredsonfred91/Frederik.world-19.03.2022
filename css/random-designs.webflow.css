@@ -362,6 +362,10 @@
   margin-top: 16px;
 }
 
+.ai-transformation-block.is-open {
+  height: auto !important;
+}
+
 .main-text-123 {
   background-color: transparent;
   font-family: 'Open Sans', sans-serif;
