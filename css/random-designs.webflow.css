@@ -358,6 +358,10 @@
   grid-template-rows: auto auto auto auto auto auto auto auto;
 }
 
+.people-grid-followup {
+  margin-top: 16px;
+}
+
 .main-text-123 {
   background-color: transparent;
   font-family: 'Open Sans', sans-serif;
@@ -1948,4 +1952,3 @@
   -ms-grid-row-align: end;
   align-self: end;
 }
-
